@@ -1,0 +1,8 @@
+name = "MyFirstApp"
+uuid = "cfa880bd-16bf-42e2-9a69-dc2838587e2d"
+authors = ["Kapil Panwar <kapil.panwar@apolloenergyanalytics.com>"]
+version = "0.1.0"
+
+[deps]
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
